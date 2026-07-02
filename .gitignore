@@ -1,0 +1,7 @@
+# Make sure these lines are in .gitignore:
+  .env.local
+  .env.local.backup
+  node_modules/
+  .next/
+  
+  
